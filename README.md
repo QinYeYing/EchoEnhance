@@ -39,8 +39,8 @@ We are committed to reproducible research. The complete source code, including:
 Code will be made publicly available following the acceptance of our paper.
 
 ## Updates
-- [ ] Paper submitted (7/10/2025)
-- [ ] Paper under review
+- [ ] Paper submitted to BSPC (Sep 22, 2025)
+- [ ] Paper under second-round review (Mar 03, 2026)
 - [ ] Paper accepted
 - [ ] Code released
 
